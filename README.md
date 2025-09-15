@@ -4,3 +4,4 @@ I was enable to configure the Git user successful using the Git Bash and also fu
 Using the Vs Code extension tool which is live server, i was enable to automatically open the index.html file on my default web browser that is firefox by clicking the Go live button which started a local server.
 HTTP request is the message sent by a client like google to a server to ask for a resource. HTTP response is the message the server sends back to the client containing the requested resource.
 I obseved 200 OK status code and it means that the request was successful and the server has returned the requested data.
+The importance of Git helps in tracking changes on a source code
